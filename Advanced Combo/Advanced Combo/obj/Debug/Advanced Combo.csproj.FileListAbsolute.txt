@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Advanced Combo\Advanced Combo\bin\Debug\Advanced Combo.exe.config
+C:\Users\Admin\source\repos\Advanced Combo\Advanced Combo\bin\Debug\Advanced Combo.exe
+C:\Users\Admin\source\repos\Advanced Combo\Advanced Combo\bin\Debug\Advanced Combo.pdb
+C:\Users\Admin\source\repos\Advanced Combo\Advanced Combo\obj\Debug\Advanced Combo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Advanced Combo\Advanced Combo\obj\Debug\Advanced_Combo.Form1.resources
+C:\Users\Admin\source\repos\Advanced Combo\Advanced Combo\obj\Debug\Advanced_Combo.Properties.Resources.resources
+C:\Users\Admin\source\repos\Advanced Combo\Advanced Combo\obj\Debug\Advanced Combo.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Advanced Combo\Advanced Combo\obj\Debug\Advanced Combo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Advanced Combo\Advanced Combo\obj\Debug\Advanced Combo.exe
+C:\Users\Admin\source\repos\Advanced Combo\Advanced Combo\obj\Debug\Advanced Combo.pdb
